@@ -1,0 +1,5 @@
+comment = 'gv_lake: GaussVector with Iceberg and data lake access'
+default_version = '1.0'
+relocatable = false
+requires = 'pgcrypto'
+module_pathname = '$libdir/gv_lake'
